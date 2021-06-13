@@ -1,0 +1,48 @@
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:97%;
+    margin: 7px auto;
+    flex-wrap: wrap;
+    background-color: rgb(122, 10, 10);
+    color:white;
+}
+body {
+    font-size:14px;
+    background-color: white;
+}
+.box{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction:column;
+    margin: 100px auto;
+    width: 70%;
+    background-color:rgb(243, 225, 146);
+    font-size:  12px;
+}
+.col-2{
+    display:flex;
+    justify-content:space-between;
+   
+}
+table, td {
+    margin:3 px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size:  12px;
+  }
+  .space{
+      margin-left: 250px;
+  }
+.lclass{
+    padding-right: 400px;
+}
+.fclass{
+    padding-right: 200px;
+}
+.gclass{
+    padding-right: 300px;
+}
